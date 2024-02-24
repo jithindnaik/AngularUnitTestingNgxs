@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Selected Book Page should compile 1`] = `
+<bc-selected-book-page
+  __book$__selector={[Function Observable]}
+  __isSelectedBookInCollection$__selector={[Function Observable]}
+  store={[Function Store]}
+>
+  <bc-book-detail
+    ng-reflect-in-collection="false"
+  >
+    
+  </bc-book-detail>
+</bc-selected-book-page>
+`;

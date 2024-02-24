@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Collection Page should compile 1`] = `
+<bc-collection-page
+  __books$__selector={[Function Observable]}
+>
+  <mat-card
+    class="mat-card mat-focus-indicator _mat-animation-noopable"
+  >
+    <mat-card-title
+      class="mat-card-title"
+    >
+      My Collection
+    </mat-card-title>
+  </mat-card><bc-book-preview-list
+    ng-reflect-books=""
+  >
+    
+  </bc-book-preview-list>
+</bc-collection-page>
+`;
